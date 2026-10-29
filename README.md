@@ -1,5 +1,8 @@
 # Vigormancer
 
+> [!WARNING]
+> **Discontinued.** This project is no longer maintained and the repository is archived (read-only). Its CI workflows are disabled.
+
 **Vigormancer** is a project for organizing weight training, aimed at facilitating the creation and monitoring of personalized workouts. The project is developed in React Native, focusing on simplicity and usability, allowing users to create workouts quickly and easily.
 
 ## 🚀 Features
